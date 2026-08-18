@@ -1,0 +1,8 @@
+{
+  "name": "RK-03 APP Hub & Launcher",
+  "description": "Plataforma oficial RK-03 Tech & Gaming PC - Loja de periféricos, planos de suporte Prime/VIP, galeria de setups e central de ferramentas para montagem de PC Gamer, Workstations e Servers.",
+  "version": "1.0.0",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
